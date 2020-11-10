@@ -1,5 +1,8 @@
 # FireGram
-# This is a photo gallery app build using REACT JS and FIREBASE for storteing img.
+This is a photo gallery app build using REACT JS and FIREBASE for storteing img.
+#
+#
+#
 ![alt text](https://raw.githubusercontent.com/lquresh52/FireGram/master/project%20demo%20img/Screenshot%20(194).png)
 ![alt text](https://raw.githubusercontent.com/lquresh52/FireGram/master/project%20demo%20img/Screenshot%20(195).png)
 
